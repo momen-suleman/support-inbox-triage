@@ -1,0 +1,7 @@
+From: "My Cool App" <hello@my-cool-app.io>
+To: you@acme.test
+Subject: Your weekly report
+Authentication-Results: mx.acme.test; spf=pass; dkim=pass; dmarc=pass
+Content-Type: text/plain
+
+Here is your report: https://my-cool-app.io/reports/12

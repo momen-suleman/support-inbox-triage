@@ -1,0 +1,8 @@
+From: Ada Lovelace <ada@example.org>
+To: support@acme.test
+Subject: Cannot download my invoice
+Message-ID: <a1@example.org>
+Authentication-Results: mx.acme.test; spf=pass; dkim=pass; dmarc=pass
+Content-Type: text/plain
+
+Hi, the invoice for order 1042 gives me an error when I try to download it. Can you help?

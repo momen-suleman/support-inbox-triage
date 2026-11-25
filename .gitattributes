@@ -1,0 +1,4 @@
+*.eml -text
+*.png binary
+*.gif binary
+*.mp4 binary

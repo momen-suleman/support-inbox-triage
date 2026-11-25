@@ -1,0 +1,7 @@
+From: "PayPal" <service@paypal.com>
+To: you@acme.test
+Subject: You sent a payment of $49.00 to Acme Cloud
+Authentication-Results: mx.acme.test; spf=pass; dkim=pass; dmarc=pass
+Content-Type: text/html
+
+<p>Receipt for your payment. <a href="https://www.paypal.com/activity">View activity on paypal.com</a></p>
